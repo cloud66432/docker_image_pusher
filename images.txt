@@ -1,4 +1,3 @@
-
-harbor
+goharbor/harbor-core:latest
 jenkins
 maven
