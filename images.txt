@@ -1,6 +1,6 @@
 
 mysql
-gitlab
+gitlab*
 harbor
 jenkins
 maven
