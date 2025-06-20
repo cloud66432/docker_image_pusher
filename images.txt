@@ -1,3 +1,2 @@
-goharbor/harbor-core:v2.8.2
-jenkins
+jenkins/jenkins:2.414.2-lts-jdk17
 maven
