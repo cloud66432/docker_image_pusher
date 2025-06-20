@@ -12,3 +12,7 @@ calico/kube-controllers:v3.25.0
 busybox
 mysql
 metrics-server
+gitlab
+harbor
+jenkins
+maven
