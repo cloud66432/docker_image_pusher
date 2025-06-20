@@ -1,5 +1,6 @@
 
-gitlab*
+gitlab-ce
+gitlab-ee
 harbor
 jenkins
 maven
