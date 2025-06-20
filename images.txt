@@ -1,3 +1,4 @@
+gitlab/gitlab-ce:latest
 goharbor/harbor-core:latest
 jenkins
 maven
